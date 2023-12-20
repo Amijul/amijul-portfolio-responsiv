@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/amijul-portfolio-responsiv/static/css/main.d89c578d.css",
+    "main.js": "/amijul-portfolio-responsiv/static/js/main.9e4b9a79.js",
+    "static/media/AMIJUL MONDAL DATA STRUCTURE CERTIFICATE.jpg": "/amijul-portfolio-responsiv/static/media/AMIJUL MONDAL DATA STRUCTURE CERTIFICATE.48de4c8f0799447f6800.jpg",
+    "static/media/NQT_Score.jpg": "/amijul-portfolio-responsiv/static/media/NQT_Score.5037335e329d8eebcd4d.jpg",
+    "static/media/Web-Certificate.jpg": "/amijul-portfolio-responsiv/static/media/Web-Certificate.402e5ae2f26519c75756.jpg",
+    "static/media/Numpy-Certificate.jpg": "/amijul-portfolio-responsiv/static/media/Numpy-Certificate.02d36aad3cef6db34380.jpg",
+    "static/media/Python-Certificate.jpg": "/amijul-portfolio-responsiv/static/media/Python-Certificate.21a7d91bdf8d0da2c99b.jpg",
+    "static/media/HTML-Certificate.jpg": "/amijul-portfolio-responsiv/static/media/HTML-Certificate.f561e7e8e9e53ce299a7.jpg",
+    "static/media/CSS-Certificate.jpg": "/amijul-portfolio-responsiv/static/media/CSS-Certificate.b200d7181cc6de2803de.jpg",
+    "static/media/TCS-Interview-Certificate.jpg": "/amijul-portfolio-responsiv/static/media/TCS-Interview-Certificate.528afbbf3601b06f5dd5.jpg",
+    "static/media/AMIJUL_CV_Print.pdf": "/amijul-portfolio-responsiv/static/media/AMIJUL_CV_Print.26055d7488ea5f6aec7b.pdf",
+    "static/media/Amijul-Chasmis.jpg": "/amijul-portfolio-responsiv/static/media/Amijul-Chasmis.64bbb56315233b8bdded.jpg",
+    "static/media/Smart-Dustbin.jpg": "/amijul-portfolio-responsiv/static/media/Smart-Dustbin.19326463bb0bfe8da874.jpg",
+    "static/media/amijul_cv_photo.jpeg": "/amijul-portfolio-responsiv/static/media/amijul_cv_photo.04ee53bb92960b608378.jpeg",
+    "static/media/Smart-Dustbin1.jpg": "/amijul-portfolio-responsiv/static/media/Smart-Dustbin1.8a2483df6571f827c04c.jpg",
+    "static/media/Smart-Dustbin2.jpg": "/amijul-portfolio-responsiv/static/media/Smart-Dustbin2.ed3c5738343fa9edde05.jpg",
+    "static/media/Amijul_java_Certificate.jpeg": "/amijul-portfolio-responsiv/static/media/Amijul_java_Certificate.a3769b014fedacb33b5b.jpeg",
+    "static/media/mysql.svg": "/amijul-portfolio-responsiv/static/media/mysql.f586030ae346497d3d321e6203efeead.svg",
+    "static/media/react.svg": "/amijul-portfolio-responsiv/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "index.html": "/amijul-portfolio-responsiv/index.html",
+    "static/media/python.svg": "/amijul-portfolio-responsiv/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
+    "static/media/bootstrap.svg": "/amijul-portfolio-responsiv/static/media/bootstrap.98585727bcfe0b1555649ec9bbab236c.svg",
+    "static/media/css.svg": "/amijul-portfolio-responsiv/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html.svg": "/amijul-portfolio-responsiv/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "static/media/js.svg": "/amijul-portfolio-responsiv/static/media/js.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.d89c578d.css.map": "/amijul-portfolio-responsiv/static/css/main.d89c578d.css.map",
+    "main.9e4b9a79.js.map": "/amijul-portfolio-responsiv/static/js/main.9e4b9a79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d89c578d.css",
+    "static/js/main.9e4b9a79.js"
+  ]
+}
